@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "SunnahForLife",
+    "slug": "SunnahForLife",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "SunnahForLife"
+}
